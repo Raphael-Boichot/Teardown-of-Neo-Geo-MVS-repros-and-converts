@@ -77,7 +77,7 @@ NEO 273 is an ALTERA MAX EPM7128STC100-15 ([ALTERA MAX 7000 family](/Datasheets/
 - Test setup: MV1FZS recapped from fresh, beefy enough arcade power supply (5.00V during all tests), good quality sound amplifier after a High/Low impedance adapter.
 - Supplier: [Guangzhou San Star Online Shop](https://www.aliexpress.com/store/202692), March 2026.
 - Unibios 4.0 verdict: Checksum NG 
-- Glitches: No graphical glitches - sound glitches like scratchy sound during some explosions, some oversaturated sound effects (similar to Metal Slug 4 on the 161 in 1). Adding 47 pF ceramic capacitors to SDRMPX, SDPMPX, SDROE and SDPOE does not change anything.
+- Glitches: No graphical glitches - sound glitches like scratchy sound during some explosions, some oversaturated sound effects (similar to Metal Slug 4 on the 161 in 1). Adding 47 pF ceramic capacitors to SDRMPX, SDPMPX, SDROE and SDPOE does not change anything. The 16 MBytes chip used (M59PW1282) is probably not suitable for the task.
 - This board was clearly modified at some point (scratches, traces of desoldering)
 
 **Sticker**
