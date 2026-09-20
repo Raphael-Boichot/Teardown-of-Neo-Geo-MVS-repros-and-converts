@@ -242,7 +242,7 @@ Overall, this cartridge was more than OK for the $60 it was sold before the pric
 - Test setup: MV1FZS recapped from fresh, beefy enough arcade power supply (5.00V during all tests), good quality sound amplifier after a High/Low impedance adapter.
 - Supplier: Vinted (Europe), september 2026.
 - Unibios 4.0 verdict: Checksum OK
-- Glitches: some slight graphical glitches
+- Glitches: some slight graphical glitches (sprite flickering), no sound glitches.
 - Original cartridge: World Heroes for CHA, unknown for PROG
 
 **Sticker**
@@ -251,7 +251,7 @@ Overall, this cartridge was more than OK for the $60 it was sold before the pric
 **PRG board top**
 ![](/Pictures/Puzzle_de_Pon_PRG_top.JPG)
 
-PCM is a LATTICE LC4128ZE ([ispMACH 4000ZE Family](/Datasheets/Lattice_4000ZE_family.pdf)). P1 is a [SKY(?) 2 MBytes Flash memory](/Datasheets/Macronix%20MX29F1615PC-10.pdf). V1 is a [Macronix 4 Mbytes EPROM](/Datasheets/Macronix%20MX29LV320E.pdf). KM23C3200 refers to a 4 MBytes maskROM. MX23C3210 refers to another [Macronix 4 MBytes maskROM](/Macronix%20MX23C3210.pdf).
+P1 and V1 are UV erasable [512 kByte EPROMs](/Datasheets/27C4000.PDF).
 
 **PRG board bottom**
 ![](/Pictures/Puzzle_de_Pon_PRG_bottom.JPG)
@@ -259,7 +259,7 @@ PCM is a LATTICE LC4128ZE ([ispMACH 4000ZE Family](/Datasheets/Lattice_4000ZE_fa
 **CHA board top**
 ![](/Pictures/Puzzle_de_Pon_CHA_top.JPG)
 
-NEO 273 is an ALTERA MAX EPM7128STC100-7 ([ALTERA MAX 7000 family](/Datasheets/ALTERA_MAX_7000.pdf)). C5 and C6 are [ST 4 MBytes OTP (one time programmable) memory chips](/Datasheets/ST%20M27C322.PDF). M1 and S1 are [Winbond 128 kBytes Flash memory](/Datasheets/Winbond%20W27C010.PDF).
+M1 is a UV erasable [128 kBytes EPROM](Datasheets/27C010.PDF). S1 is a is a UV erasable [64 kBytes EPROM](/Datasheets/27C512.PDF). C ROMs are UV erasable [512 kByte EPROMs](/Datasheets/27C4000.PDF).
 
 **CHA board bottom**
 ![](/Pictures/Puzzle_de_Pon_CHA_bottom.JPG)
