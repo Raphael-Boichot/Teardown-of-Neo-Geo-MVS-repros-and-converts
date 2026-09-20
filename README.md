@@ -277,7 +277,7 @@ M1 is a UV erasable [128 kBytes EPROM](Datasheets/27C010.PDF). S1 is a is a UV e
 **PRG board top**
 ![](/Pictures/Pop_n_Bounce_PRG_top.JPG)
 
-P1 and V1 are UV erasable [512 kByte EPROMs](/Datasheets/27C4000.PDF).
+P1 and V1 are UV erasable [2 MByte EPROMs](/Datasheets/27C160.PDF).
 
 **PRG board bottom**
 ![](/Pictures/Pop_n_Bounce_PRG_bottom.JPG)
@@ -285,7 +285,7 @@ P1 and V1 are UV erasable [512 kByte EPROMs](/Datasheets/27C4000.PDF).
 **CHA board top**
 ![](/Pictures/Pop_n_Bounce_CHA_top.JPG)
 
-M1 is a UV erasable [128 kBytes EPROM](Datasheets/27C010.PDF). S1 is a is a UV erasable [64 kBytes EPROM](/Datasheets/27C512.PDF). C ROMs are UV erasable [512 kByte EPROMs](/Datasheets/27C4000.PDF).
+M1 and S1 are UV erasable [128 kBytes EPROM](Datasheets/27C010.PDF). C ROMs are UV erasable [2 MByte EPROMs](/Datasheets/27C160.PDF).
 
 **CHA board bottom**
 ![](/Pictures/Pop_n_Bounce_CHA_bottom.JPG)
