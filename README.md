@@ -154,7 +154,7 @@ NEO 273 is an ALTERA MAX EPM7128STC100-7 ([ALTERA MAX 7000 family](/Datasheets/A
 **Red Blood hack**
 ![](/Pictures/Sengoku2_Red_Blood.jpg)
 
-Want to cook your own uncensored version ? [Follow the guide !](https://github.com/Raphael-Boichot/Neo-Geo-Sengoku-2-Red-Blood) !
+Want to cook your own uncensored version ? [Follow the guide !](https://github.com/Raphael-Boichot/Neo-Geo-Sengoku-2-Red-Blood)
 
 # Combo PROG-EP / CHA32G
 
