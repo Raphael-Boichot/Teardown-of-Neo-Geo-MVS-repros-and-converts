@@ -266,10 +266,10 @@ M1 is a UV erasable [128 kBytes EPROM](Datasheets/27C010.PDF). S1 is a is a UV e
 
 ## Pop'n'Bounce
 - Test setup: MV1FZS recapped from fresh, beefy enough arcade power supply (5.00V during all tests), good quality sound amplifier after a High/Low impedance adapter.
-- Supplier: Vinted (Europe), June 2026. Sold as "reparado" but it's quite an extensive "reparación".
+- Supplier: Vinted (Europe), June 2026. Sold as "reparado" but it's probably more a "conversión".
 - Unibios 4.0 verdict: Checksum OK
 - Glitches: none.
-- Original cartridge: probably the same.
+- Original cartridge: unknown.
 
 **Sticker**
 ![](/Pictures/Pop_n_Bounce_Sticker.JPG)
