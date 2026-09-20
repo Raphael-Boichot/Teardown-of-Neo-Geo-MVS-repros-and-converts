@@ -240,7 +240,7 @@ Overall, this cartridge was more than OK for the $60 it was sold before the pric
 
 ## Puzzle de Pon convert
 - Test setup: MV1FZS recapped from fresh, beefy enough arcade power supply (5.00V during all tests), good quality sound amplifier after a High/Low impedance adapter.
-- Supplier: Vinted (Europe), september 2026.
+- Supplier: Vinted (Europe), September 2026.
 - Unibios 4.0 verdict: Checksum OK
 - Glitches: some slight graphical glitches (sprite flickering), no sound glitches.
 - Original cartridge: World Heroes 2 for CHA, unknown for PROG (probably WH2 as well)
@@ -264,3 +264,28 @@ M1 is a UV erasable [128 kBytes EPROM](Datasheets/27C010.PDF). S1 is a is a UV e
 **CHA board bottom**
 ![](/Pictures/Puzzle_de_Pon_CHA_bottom.JPG)
 
+## Pop'n'Bounce
+- Test setup: MV1FZS recapped from fresh, beefy enough arcade power supply (5.00V during all tests), good quality sound amplifier after a High/Low impedance adapter.
+- Supplier: Vinted (Europe), June 2026. Sold as "Reparado"
+- Unibios 4.0 verdict: Checksum OK
+- Glitches: none.
+- Original cartridge: probably the same.
+
+**Sticker**
+![](/Pictures/Pop_n_Bounce_Sticker.JPG)
+
+**PRG board top**
+![](/Pictures/Pop_n_Bounce_PRG_top.JPG)
+
+P1 and V1 are UV erasable [512 kByte EPROMs](/Datasheets/27C4000.PDF).
+
+**PRG board bottom**
+![](/Pictures/Pop_n_Bounce_PRG_bottom.JPG)
+
+**CHA board top**
+![](/Pictures/Pop_n_Bounce_CHA_top.JPG)
+
+M1 is a UV erasable [128 kBytes EPROM](Datasheets/27C010.PDF). S1 is a is a UV erasable [64 kBytes EPROM](/Datasheets/27C512.PDF). C ROMs are UV erasable [512 kByte EPROMs](/Datasheets/27C4000.PDF).
+
+**CHA board bottom**
+![](/Pictures/Pop_n_Bounce_CHA_bottom.JPG)
