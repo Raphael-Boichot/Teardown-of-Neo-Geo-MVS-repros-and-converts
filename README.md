@@ -235,3 +235,32 @@ U2 is another ([ALTERA MAX 3000](/Datasheets/ALTERA_MAX_3000A.pdf)) with marking
 Some ceramic decoupling caps were also missing for no reason, populated by 100 nF by the owner just in case. Does not change anything.
 
 Overall, this cartridge was more than OK for the $60 it was sold before the prices went crazy with the VERTEX mod. New customers: fly away any price up to 80€, try TaoBao directly if you have local contacts, second hand units or wait for the next version, if any. Fun fact: this cartridge fell from waist height onto a tiled floor and still works like a charm. It’s built to last!
+
+# Teardown of some converts / repairs
+
+## Puzzle de Pon convert
+- Test setup: MV1FZS recapped from fresh, beefy enough arcade power supply (5.00V during all tests), good quality sound amplifier after a High/Low impedance adapter.
+- Supplier: Vinted (Europe), september 2026.
+- Unibios 4.0 verdict: Checksum OK
+- Glitches: some slight graphical glitches
+- Original cartridge: World Heroes for CHA, unknown for PROG
+
+**Sticker**
+![](/Pictures/Puzzle_de_Pon_Sticker.JPG)
+
+**PRG board top**
+![](/Pictures/Puzzle_de_Pon_PRG_top.JPG)
+
+PCM is a LATTICE LC4128ZE ([ispMACH 4000ZE Family](/Datasheets/Lattice_4000ZE_family.pdf)). P1 is a [SKY(?) 2 MBytes Flash memory](/Datasheets/Macronix%20MX29F1615PC-10.pdf). V1 is a [Macronix 4 Mbytes EPROM](/Datasheets/Macronix%20MX29LV320E.pdf). KM23C3200 refers to a 4 MBytes maskROM. MX23C3210 refers to another [Macronix 4 MBytes maskROM](/Macronix%20MX23C3210.pdf).
+
+**PRG board bottom**
+![](/Pictures/Puzzle_de_Pon_PRG_bottom.JPG)
+
+**CHA board top**
+![](/Pictures/Puzzle_de_Pon_CHA_top.JPG)
+
+NEO 273 is an ALTERA MAX EPM7128STC100-7 ([ALTERA MAX 7000 family](/Datasheets/ALTERA_MAX_7000.pdf)). C5 and C6 are [ST 4 MBytes OTP (one time programmable) memory chips](/Datasheets/ST%20M27C322.PDF). M1 and S1 are [Winbond 128 kBytes Flash memory](/Datasheets/Winbond%20W27C010.PDF).
+
+**CHA board bottom**
+![](/Pictures/Puzzle_de_Pon_CHA_bottom.JPG)
+
