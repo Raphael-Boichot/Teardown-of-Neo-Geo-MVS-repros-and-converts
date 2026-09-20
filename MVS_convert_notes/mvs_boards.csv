@@ -1,0 +1,151 @@
+id,mvs_no,game,year,maker,mame_set,prog,cha,also_documented,notes,confidence,sources
+0001,NGM-001,NAM 1975,1990,SNK,nam1975,PROG-NAM,CHA-32,,,high,M K J
+0002,NGM-002,Baseball Stars Professional,1990,SNK,bstars,PROG-EP,CHA-32,,,high,M K J
+0003,NGM-003,Top Player's Golf,1990,SNK,tpgolf,PROG-EP,CHA-32,,,high,M K J
+0004,NGM-004,Mahjong Kyo Retsuden,1990,SNK,mahretsu,PROG-EP,CHA-32,,,high,M K J
+0005,NGM-005,Magician Lord,1990,Alpha Denshi Co.,maglord,PROG-EP,CHA-32,,,high,M K J
+0006,NGM-006,Riding Hero,1990,SNK,ridhero,PROG-HERO,CHA-32,,,high,M K J
+0007,NGM-007,Alpha Mission 2,1991,SNK,alpham2,PROG42G,CHA42G,,,high,M K J
+0009,NGM-009,Ninja Combat,1990,Alpha Denshi Co.,ncombat,PROG-EP,CHA-32,,,high,M K J
+0010,NGM-010,Cyber-Lip,1990,SNK,cyberlip,PROG-EP,CHA-32,,,high,M K J
+0011,NGM-011,"Super Spy, The",1990,SNK,superspy,PROG-8MB,CHA-8M,,,high,M K J
+0014,NGM-014,Mutation Nation,1992,SNK,mutnat,PROG42G-1,CHA42G-1,,,high,M K J
+0016,NGM-016,King of the Monsters,1991,SNK,kotm,PROG42G-1,CHA42G-1,PROG42G + CHA42G (M),,high,M K J
+0017,NGM-017,Sengoku,1991,SNK,sengoku,PROG42G,CHA42G,,,high,M K J
+0018,NGM-018,Burning Fight,1991,SNK,burningf,PROG42G,CHA42G,PROG42G-1 + CHA42G-1 (M; MAME lists this as the standard pair),Sources disagree: Mike/JNX give PROG42G + CHA42G; MAME gives 42G-1 as standard and mentions 42G only for boards seen 'manually patched up with wires and resistors',medium,M K J
+0019,NGM-019,League Bowling,1990,SNK,lbowling,PROG-HERO,CHA-32,,,high,M K J
+0020,NGM-020,Ghost Pilots,1991,SNK,gpilots,PROG8M42,CHA-8M,,,high,M K J
+0021,NGM-021,Puzzled,1990,SNK,joyjoy,PROG-EP,CHA-32,,,high,M K J
+0022,ALM-001,Blue's Journey,1990,Alpha Denshi Co.,bjourney,PROG8M42,CHA-8M,,,high,M K J
+0023,NGM-023,Quiz Daisousa Sen,1991,SNK,quizdais,PROG42G,CHA42G,PROGTOP + CHA256 (M; Korean release),,high,M K J
+0024,NGM-024,Last Resort,1992,SNK,lresort,PROG42G-1,CHA42G-1,PROG-EP + CHA-EPG (M; prototype); PROG42G-1 + CHA 42G-2 (K),,high,M K J
+0025,NGM-025,Eight Man,1991,SNK / Pallas,eightman,PROG42G-1,CHA42G-1,,,high,M K J
+0027,MOM-001,Minnasan no Okagesamadesu,1990,Monolith Corp.,minasan,PROG-8MB,CHA-8M,,,high,M K J
+0029,??M-029,Legend of Success Joe,1991,SNK / Wave,legendos,PROG42G-1,CHA42G-1,,,high,M K J
+0030,NGM-030,Super Baseball 2020,1991,SNK / Pallas,2020bb,PROG42G-1,CHA42G-1,,,high,M K J
+0031,NGM-031,Soccer Brawl,1991,SNK,socbrawl,PROG42G-1,CHA42G-1,,,high,M K J
+0032,NGM-032,Robo Army,1991,SNK,roboarmy,PROG42G-1,CHA42G-1,PROG42G-COM + CHA42G-1 (M),,high,M K J
+0033,NGM-033,Fatal Fury,1991,SNK,fatfury1,PROG42G-1,CHA42G-1,,,high,M K J
+0034,NGM-034,Football Frenzy,1992,SNK,fbfrenzy,PROG42G-1,CHA42G-1,,,high,M K J
+0036,MOM-002,Bakatonosama Mahjong Manyuki,1991,Monolith Corp.,bakatono,PROG42G-COM,CHA42G-1,PROG42G-1 + CHA42G-1 (M),,high,M K J
+0037,ALM-002,Crossed Swords,1991,Alpha Denshi Co.,crsword,PROG42G-1,CHA42G-1,,,high,M K J
+0038,ALM-003,Thrash Rally,1991,Alpha Denshi Co.,trally,PROG42G-COM,CHA42G-1,,,high,M K J
+0039,NGM-039,King of the Monsters 2,1992,SNK,kotm2,PROG16,CHA42G-1,,,high,M K J
+0040,NGM-040,Sengoku 2,1993,SNK,sengoku2,PROG 4096,CHA 42G-2,,,high,M K J
+0041,NGM-041,Baseball Stars 2,1992,SNK,bstars2,PROG42G-1,CHA42G-1,,,high,M K J
+0042,NGM-042,Quiz Meitantei Neo & Geo,1992,SNK,quizdai2,PROG42G-1,CHA42G-1,,,high,M K J
+0043,NGM-043,3 Count Bout,1993,SNK,3countb,PROG 4096,CHA 42G-2,PROG-G2 + CHA 42G-2 (M),,high,M K J
+0044,NGM-044,Art of Fighting,1992,SNK,aof,PROG 4096,CHA42G-1,PROG16 + CHA42G-1 (M),,high,M K J
+0045,NGM-045,Samurai Shodown,1993,SNK,samsho,PROGGSC,CHA 42G-3,,,high,M K J
+0046,NGM-046,Top Hunter,1994,SNK,tophuntr,PROGTOP,CHA256B,,,high,M K J
+0047,NGM-047,Fatal Fury 2,1992,SNK,fatfury2,PROG-G2,CHA42G-1,PROG-G2 + CHA 42G-2 (M),SNK-9201,high,M K J
+0048,??M-048,Quest of Jong Master,1994,Aicom,janshin,PROGGSC,CHA256,,,high,M K J
+0049,NGM-049,Andro Dunos,1992,Visco,androdun,PROG16,CHA42G-1,,,high,M K J
+0050,ALM-004,Ninja Commando,1992,Alpha Denshi Co.,ncommand,PROG42G-1,CHA42G-1,,,high,M K J
+0051,AIM-051,Viewpoint,1992,Sammy / Aicom,viewpoin,PROG-G2,CHA42G-1,PROG 4096 + CHA 42G-2 (M),,high,M K J
+0052,NGM-052,Super Sidekicks,1992,SNK,ssideki,PROG-G2,CHA 42G-2,,SNK-9201,high,M K J
+0053,ALM-005,World Heroes,1992,Alpha Denshi Co.,wh1,PROG16,CHA42G-1,,,high,M K J
+0055,NGM-055,King of Fighters '94,1994,SNK,kof94,PROGTOP,CHA256,PROGTOP + CHA256B (M),,high,M K J
+0056,NGM-056,Art of Fighting 2,1994,SNK,aof2,PROGGSC,CHA256,,,high,M K J
+0057,ALM-006,World Heroes 2,1993,ADK,wh2,PROG 4096 B,CHA 42G-3,,,high,M K J
+0058,NGM-058,Fatal Fury Special,1993,SNK,fatfursp,PROGGSC,CHA42G-3B,PROGGSC + CHA 42G-3 (M),,high,M K J
+0059,NGM-059,Savage Reign,1995,SNK,savagere,PROG 4096 B,CHA 42G-3,PROGTOP + CHA256 (M),,high,M K J
+0060,??M-060,Fight Fever,1994,Viccom,fightfev,PROGGSC,CHA256B,,,high,M K J
+0061,NGM-061,Super Sidekicks 2,1994,SNK,ssideki2,PROGTOP,CHA256,PROGGSC + CHA256 (M); PROGGSC + CHA256B (M); PROG 4096 B + CHA256 (M),,high,M K J
+0062,DEM-001,Spinmaster,1993,Data East Corporation,spinmast,PROGGSC,CHA256,,,high,M K J
+0063,NGM-063,Samurai Shodown 2,1994,SNK,samsho2,PROGTOP,CHA256,,,high,M K J
+0064,ADM-007,World Heroes 2 Jet,1994,ADK / SNK,wh2j,PROGGSC,CHA256,,,high,M K J
+0065,DEM-002,Windjammers,1994,Data East Corporation,wjammers,PROG42G-1,CHA42G-1,,,high,M K J
+0066,DEM-003,Karnov's Revenge,1994,Data East Corporation,karnovr,PROGGSC,CHA256,,,high,M K J
+0067,??M-067,Gururin,1994,Face,gururin,PROG16,CHA256,PROG16 + CHA256B (M),,high,M K J
+0068,NGM-068,Power Spikes 2,1994,Video System Co.,pspikes2,PROGTOP,CHA256,,,high,M K J
+0069,NGM-069,Fatal Fury 3,1995,SNK,fatfury3,PROGBK1,CHA256,,,high,M K J
+0070,??M-070,Zupapa!,2001,SNK,zupapa,PROGBK1,CHAFIO,,date 1999.6.14; CMC 7042,high,M K J
+0073,??M-073,Panic Bomber,1994,Eighting / Hudson Soft,panicbom,PROGTOP,CHA256,,,high,M K J
+0074,ADM-008,Aggressors of Dark Kombat,1994,ADK / SNK,aodk,PROGTOP,CHA256B,,,high,M K J
+0075,NGM-075,Aero Fighters 2,1994,Video System Co.,sonicwi2,PROGGSC,CHA256,,,high,M K J
+0076,??M-076,Zed Blade,1994,NMK,zedblade,PROGGSC,CHA256,,,high,M K J
+0078,NGM-078,Galaxy Fight: Universal Warriors,1995,Sunsoft,galaxyfg,PROGTOP,CHA256,,,high,M K J
+0079,DEM-004,Street Hoop,1994,Data East Corporation,strhoop,PROGGSC,CHA256,,,high,M K J
+0080,SAM-080,Quiz King of Fighters,1995,Saurus (SNK license),quizkof,PROGGSC,CHA256,PROGTOP + CHA256 (M; Korean release),,high,M K J
+0081,NGM-081,Super Sidekicks 3 : The Next Glory,1995,SNK,ssideki3,PROGTOP,CHA42G-3B,PROGTOP + CHA256 (M); PROG 4096 B + CHA 42G-3 (M); PROGBK1 + CHA256B (M),,high,M K J
+0082,NGM-082,Double Dragon,1995,Technos Japan,doubledr,PROGTOP,CHA256,PROGTOP + CHA 42G-3 (M); PROGBK1 + CHA256 (M); PROGTOP + CHA256B (M); PROG 4096 B + CHA 42G-3 (M); PROGGSC + CHA42G-3B (M),,high,M K J
+0083,NGM-083,Bust-A-Move,1994,Taito,pbobblen,PROGTOP,CHA256,,,high,M K J
+0084,NGM-084,King of Fighters '95,1995,SNK,kof95,PROGBK1,CHA256,PROGSM + CHA256 (M),,high,M K J
+0086,??M-086,Tecmo World Soccer '96,1996,Tecmo,twsoc96,PROGBK1,CHA256B,,,high,M K J
+0087,NGM-087,Samurai Shodown 3: Blades of Blood,1995,SNK,samsho3,PROGBK1,CHA256,PROGSS3 + CHA256 (M),,high,M K J
+0088,NGM-088,Stakes Winner,1995,Saurus,stakwin,PROGBK1,CHA42G-3B,,MAME header spells the CHA board 'CHA42-3B' (treated as 42G-3B),high,M K J
+0089,NGM-089,Pulstar,1995,Aicom,pulstar,PROGBK1,CHA256,PROGBK1 + CHA256B (M),,high,M K J
+0090,ADM-009,World Heroes Perfect,1995,ADK / SNK,whp,PROGGSC,CHA256,PROGTOP + CHA256 (M); PROGGSC + CHA256B (M); PROGBK1 + CHA256B (M),,high,M K J
+0092,NGM-092,Kabuki Klash,1995,Hudson Soft,kabukikl,PROGBK1,CHA256,PROGTOP + CHA256 (M),,high,M K J
+0093,??M-093,Neo Bomberman,1997,Hudson Soft,neobombe,PROGBK1,CHA256,,,high,M K J
+0094,NGM-094,Voltage Fighter Gowcaizer,1995,Technos Japan,gowcaizr,PROGBK1,CHA42G-3B,,,high,M K J
+0095,NGM-095,Real Bout Fatal Fury,1995,SNK,rbff1,PROGBK1,CHA256,,,high,M K J
+0096,NGM-096,Art of Fighting 3: Path of the Warrior,1996,SNK,aof3,PROGBK1,CHA256,,,high,M K J
+0097,NGM-097,Aero Fighters 3,1995,Video System Co.,sonicwi3,PROGBK1,CHA256,,,high,M K J
+0200,NGM-200,Neo Turf Masters,1996,Nazca,turfmast,PROGBK1,CHA256B,PROGBK1 + CHA256 (M),,high,M K J
+0201,NGM-201,Metal Slug,1996,Nazca,mslug,PROGBK1,CHA256,PROGBK1 + CHA256B (M),,high,M K J
+0202,??M-202,Puzzle de Pon!,1995,Visco,puzzledp,PROG 4096,CHA 42G-2,,,high,M K J
+0203,ADM-010,Master of Syougi,1995,ADK / SNK,moshougi,PROGTOP,CHA42G-3B,,,high,M K J
+0206,??M-206,Quiz Chibi Marukochan Deluxe,1995,Takara,marukodq,PROGBK1,CHA256,,,high,M K J
+0207,??M-207,Neo Mr. Do!,1996,Visco,neomrdo,PROGBK1,CHA42G-3B,PROG 4096 + CHA42G-3B (M),,high,M K J
+0208,??M-208,Super Dodge Ball,1996,Technos Japan,sdodgeb,PROGBK1,CHA256B,,,high,M K J
+0209,??M-209,Goal! Goal! Goal!,1995,Visco,goalx3,PROGBK1,CHA256,,,high,M K J
+0212,ADM-011,Over Top,1996,ADK,overtop,PROGBK1,CHA256,,,high,M K J
+0213,??M-213,Neo Driftout,1996,Visco,neodrift,PROGBK1,CHA256B,,,high,M K J
+0214,NGM-214,King of Fighters '96,1996,SNK,kof96,PROGBK1,CHA256,PROGSS3 + CHA256 (M),,high,M K J
+0215,NGM-215,Super Sidekicks 4: The Ultimate 11,1996,SNK,ssideki4,PROGBK1,CHA256,,,high,M K J
+0216,??M-216,Kizuna Encounter,1996,SNK,kizuna,PROGTOP,CHA256,,,high,M K J
+0217,ADM-012,Ninja Master's,1996,ADK / SNK,ninjamas,PROGBK1,CHA256,,,high,M K J
+0218,NGM-218,Ragnagard,1996,Saurus,ragnagrd,PROGBK1,CHA256,,,high,M K J
+0219,NGM-219,Pleasure Goal 5-on-5 Street Soccer,1996,Saurus,pgoal,PROGBK1,CHA256,,,high,M K J
+0220,,Ironclad Brikinger,2014?,Saurus,ironclad,PROGBK1,CHA256,PROGTOP + CHA256B (K),"Single source (Mike); late/unlicensed release, MAME lists ID-0220 as a 1996 prototype",medium,K
+0221,NGM-221,Magical Drop 2,1996,Data East Corporation,magdrop2,PROGBK1,CHA256B,PROGBK1 + CHA256 (M),,high,M K J
+0222,NGM-222,Samurai Shodown 4: Amakusa's Revenge,1996,SNK,samsho4,PROGBK1,CHA256B,PROGBK1 + CHA256 (M),,high,M K J
+0223,NGM-223,Real Bout Fatal Fury Special,1996,SNK,rbffspec,PROGBK1,CHA256B,,,high,M K J
+0224,ADM-013,Twinkle Star Sprites,1996,ADK / SNK,twinspri,PROGBK1,CHA256B,,,high,M K J
+0225,SUM-225,Waku Waku 7,1996,Sunsoft,wakuwak7,PROGBK1,CHA256B,,,high,M K J
+0227,NGM-227,Stakes Winner 2,1996,Saurus,stakwin2,PROGBK1,CHA256,,,high,M K J
+0228,,Ghost Lop (prototype / location test),1996,Data East Corporation,ghostlop,PROGGSC,CHA256,,Prototype / location-test cart; not in Mike's table,high,M J
+0230,NGM-2300,Breakers,1996,Visco,breakers,PROGBK1,CHA256B,,,high,M K J
+0231,??M-2310,Money Puzzle Exchanger,1997,Face,miexchng,PROGBK1,CHA42G-3B,,,high,M K J
+0232,NGM-2320,King of Fighters '97,1997,SNK,kof97,PROGBK1,CHA512Y,,,high,M K J
+0233,NGM-2330,Magical Drop 3,1997,Data East Corporation,magdrop3,PROGBK1,CHA256,PROGBK1 + CHA256B (M),,high,M K J
+0234,NGM-2340,Last Blade,1997,SNK,lastblad,PROGBK1,CHA512Y,,,high,M K J
+0235,??M-2350,Puzzle de Pon! R,1997,Visco,puzzldpr,PROG 4096,CHA 42G-2,,,high,M K J
+0236,??M-2360,"Irritating Maze, The",1997,SNK / Saurus,irrmaze,PROGBK1,CHA512Y,,,high,M K J
+0237,??M-2370,Pop 'N Bounce,1997,Video System Co.,popbounc,PROG 4096,CHA42G-3B,,,high,M K J
+0238,??M-2380,Shock Troopers,1997,Saurus,shocktro,PROGBK1,CHA256,,,high,M K J
+0239,NGM-2390,Blazing Star,1998,Yumekobo,blazstar,PROGBK1,CHA512Y,,,high,M K J
+0240,NGM-2400,Real Bout Fatal Fury 2,1998,SNK,rbff2,PROGBK1,CHA512Y,,,high,M K J
+0241,NGM-2410,Metal Slug 2,1998,SNK,mslug2,PROGBK1,CHA512Y,PROGBK1 + CHA256 (M),,high,M K J
+0242,NGM-2420,King of Fighters '98,1998,SNK,kof98,PROGSF1,CHA512Y,PROGSF1E + CHA512Y (M); PROGBK1 + CHA512Y (M),date 1998.6.17; protected board; PROGSF1/SF1E carry an Altera protection chip; a PROGBK1 variant is also listed,high,M K J
+0243,NGM-2430,Last Blade 2,1998,SNK,lastbld2,PROGBK1,CHA512Y,,,high,M K J
+0244,??M-2440,Neo Geo Cup '98,1998,SNK,neocup98,PROGBK1,CHA512Y,,,high,M K J
+0245,??M-2450,Breakers Revenge,1998,Visco,breakrev,PROGBK1,CHA512Y,,,high,M K J
+0246,NGM-2460,Shock Troopers 2nd Squad,1998,Saurus,shocktr2,PROGBK1,CHA512Y,,,high,M K J
+0247,??M-2470,Flip Shot,1998,Visco,flipshot,PROGBK1,CHA256,,,high,M K J
+0248,??M-2480,Bust-A-Move Again,1999,Taito (SNK license),pbobbl2n,PROGBK1,CHA256,,,high,M K J
+0249,??M-2490,Captain Tomaday,1999,Visco,ctomaday,PROGBK1,CHA256,PROGBK1 + CHA512Y (M),,high,M K J
+0250,NGM-2500,Metal Slug X,1999,SNK,mslugx,PROGEOP,CHA512Y,,date 1999.2.2,high,M K J
+0251,NGM-2510,King of Fighters '99,1999,SNK,kof99,PROGLBA,CHAFIO,PROGBK1 + CHAFIO (M; non-SMA version),SMA; date 1999.4.12; date 1999.6.14; CMC 7042; Primary = SMA-protected version,high,M K J
+0252,??M-2520,Ganryu,1999,Visco,ganryu,PROGBK1,CHAFIO,,date 1999.6.14; CMC 7042,high,M K J
+0253,NGM-2530,Garou: Mark of the Wolves,1999,SNK,garou,PROGLBA,CHAFIO,,date 1999.4.12; SMA; LBA-SUB; date 1999.6.14; CMC 7042,high,M K J
+0254,??M-2540,Strikers 1945 Plus,1999,Psikyo,s1945p,PROGBK1,CHAFIO,,date 1999.6.14; CMC 7042,high,M K J
+0255,??M-2550,Prehistoric Isle 2,1999,Yumekobo / Saurus,preisle2,PROGBK1,CHAFIO,,date 1999.6.14; CMC 7042,high,M K J
+0256,NGM-2560,Metal Slug 3,2000,SNK,mslug3,PROGLBA,CHAFIO,PROGBK1 + CHAFIO (M; non-SMA version),date 1999.4.12; SMA; LBA-SUB; date 1999.6.14; CMC 7042; Primary = SMA-protected version,high,M K J
+0257,NGM-2570,King of Fighters 2000,2000,SNK,kof2000,PROGLBA,CHAFIO,PROGBK1 + CHAFIO (M; non-SMA version),date 1999.4.12; SMA; LBA-SUB; date 1999.6.14; CMC 7050; Primary = SMA-protected version,high,M K J
+0259,??M-2590,Bang Bead,2000,Visco,bangbead,PROGBK1,CHAFIO,PROGTOP + CHA265B? (K),date 1999.6.14; CMC 7042; Mike's alternate CHA reads '265B' (probably a typo for 256B),high,M K J
+0260,??M-2600,Nightmare in the Dark,2000,Eleven / Gavaking,nitd,PROGBK1,CHAFIO,PROGTOP + CHA512Y (K),date 1999.6.14; CMC 7042,high,M K J
+0261,NGM-2610,Sengoku 3,2001,Noise Factory / SNK,sengoku3,PROGBK1,CHAFIO,,date 1999.6.14; CMC 7042,high,M K J
+0262,NGM-262?,King of Fighters 2001,2001,Eolith / SNK,kof2001,PROGBK2,CHAFIO,,PCM2 SNK; REV1.0; CMC 7050,high,M K J
+0263,NGM-2630,Metal Slug 4,2002,Mega / Noise Factory / Playmore,mslug4,PROGBK2,CHAFIO,,PCM2 SNK; CMC 7050,high,M K J
+0264,NGM-264?,Rage of the Dragons,2002,Evoga / Playmore,rotd,PROGBK2,CHAFIO,,date 2000.3.21; PCM2 SNK; date 1999.6.14; CMC 7050,high,M K J
+0265,NGM-2650,King of Fighters 2002,2002,Eolith / Playmore,kof2002,PROGBK2,CHAFIO,,date 2000.3.21; PCM2 SNK; date 1999.6.14; CMC 7050,high,M K J
+0266,NGM-2660,Matrimelee,2003,Noise Factory / Atlus,matrim,PROGBK2,CHAFIO,,date 2000.3.21; PCM2 SNK; date 1999.6.14; CMC 7050,high,M K J
+0267,??M-2670,Pochi & Nyaa,2003,Aiky / Taito,pnyaa,PROGBK2,CHAFIO,,date 2000.3.21; PCM2 SNK; date 1999.6.14; CMC 7050,high,M K J
+0268,NGM-2680,Metal Slug 5,2003,SNK Playmore,mslug5,PROGBK3S,CHAFIO,,date 2003.10.1; PCM2 PLAYMORE; PVC; date 2003.7.24; CMC 7050,high,M K J
+0269,NGM-2690,SVC Chaos: SNK vs. Capcom,2003,Playmore / Capcom,svc,PROGBK3R,CHAFIO,,date 2003.9.2; PCM2 SNKPLAYMORE; PVC; date 2003.7.24; CMC 7050,high,M K J
+0270,NGM-2700,Samurai Shodown 5,2003,Yuki Enterprise / SNK Playmore,samsho5,PROGBK2R,CHAFIO,,date 2003.8.26; PCM2 SNKPLAYMORE; date 2003.7.24; CMC 7050,high,M K J
+0271,NGM-2710,King of Fighters 2003,2003,SNK Playmore,kof2003,PROGBK3S,CHAFIO,,date 2003.10.1; PCM2 SNKPLAYMORE; PVC; date 2003.7.24; CMC 7050,high,M K J
+0272,NGM-2720,Samurai Shodown 5 Special,2004,Yuki Enterprise / SNK Playmore,samsh5sp,PROGBK2S,CHAFIO,,date 2003.10.18; PCM2 SNKPLAYMORE; date 2003.7.24; CMC 7050,high,M K J
