@@ -243,7 +243,7 @@ Overall, this cartridge was more than OK for the $60 it was sold before the pric
 - Supplier: Vinted (Europe), september 2026.
 - Unibios 4.0 verdict: Checksum OK
 - Glitches: some slight graphical glitches (sprite flickering), no sound glitches.
-- Original cartridge: World Heroes 2 for CHA, unknown for PROG
+- Original cartridge: World Heroes 2 for CHA, unknown for PROG (probably WH2 as well)
 
 **Sticker**
 ![](/Pictures/Puzzle_de_Pon_Sticker.JPG)
