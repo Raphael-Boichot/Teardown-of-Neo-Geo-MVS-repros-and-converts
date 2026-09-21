@@ -11,7 +11,7 @@ The idea:
 
 ## Step 1: removing some annoying chips with the good equipement
 
-Let's be honest: this step is a real pain. In any case, the desoldering gun is not enough and you will need desoldering wick and / or hot air station for the final step.
+Let's be honest: this step is a real pain. In any case, the desoldering gun is not enough and you will need desoldering wick and / or hot air station for the final step. The reason ? The PCB has traces on both side and metallized vias.
 
 ![](/Magician_Lord_hacks/Hacking_Magician_Lord_01.jpg)
 
