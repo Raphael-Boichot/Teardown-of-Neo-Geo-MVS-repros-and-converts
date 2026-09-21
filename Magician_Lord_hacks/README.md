@@ -23,7 +23,7 @@ A GQ4x4 programmer with adapter is 100% sure compatible with the MX29F1615. See 
 
 ## Step 3: a cheap accessible bank selector
 
-You're cheap and you know how to use a screwdriver: let's do the cheapest possible bank switcher. Of course, it works. Now you can experience the pain of the set 1 version of Magician Lord (the only real version) and the ACFH hack! The blue dot on A19 is solder mask to cover the cheap original connection made by bootlegger by scratching the GND plane close to A19 before soldering.
+You're cheap and you know how to use a screwdriver: let's do the cheapest possible bank switcher. Of course, it works. Now you can experience the pain of the set 1 version of Magician Lord (the only real version) and the ACFH hack ! The blue dot near A19 is solder mask to cover the cheap original connection made by the bootlegger by scratching the GND plane close to A19 before soldering with a big blob.
 
 ![](/Magician_Lord_hacks/AES_MVS_hack.png)
 
